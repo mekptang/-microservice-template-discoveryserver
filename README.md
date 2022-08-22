@@ -1,1 +1,1 @@
-# -microservice-template-discoveryserver
+# microservice-template-discoveryserver
